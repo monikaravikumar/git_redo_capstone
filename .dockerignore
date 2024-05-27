@@ -1,0 +1,13 @@
+#Environment variables
+.env
+#Logs
+*.log
+#Temporary files
+tmp
+temp
+#build directories
+dist
+build
+#Git specific files
+.git
+
